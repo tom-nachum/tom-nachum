@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @tom-nachum
 - 👀 I’m interested in computer science, and propblem solving! 
+- :trophy: This account is for my own projects, unrelated to assignments .
 - 🌱 I’m currently learning Angular via Udemy.
 - 📫 My email: tom.nachum@gmail.com.
