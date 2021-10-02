@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tom.
-- 🎓 I’m a computer science student at Huji. 
-- 💻 I like programming and problem solving.
-- 🌱 I’m currently learning Angular via Udemy.
+- 🎓 Computer science student at Huji. 
+- 💻 Passionate for programming and problem solving.
+- 🌱 Currently learning Angular via Udemy.
 - 📫 My email: tom.nachum@gmail.com.
